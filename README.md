@@ -82,6 +82,8 @@ Run the Streamlit web app:
 ![First page](Image/home.png)
 ![Second page](Image/2.png)
 
+[Click here to run it on live server](https://book-recommendation-system-using-ml-auxe5gedp49brcnpspnhet.streamlit.app/)
+
 
 ## 🔮 Future Improvements
 
