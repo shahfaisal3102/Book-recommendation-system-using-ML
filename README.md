@@ -79,7 +79,8 @@ Run the Streamlit web app:
 `streamlit run app.py`
 
 ## 📊 Example (App UI)
-
+![First page](Image/home.png)
+![Second page](Image/2.png)
 
 
 ## 🔮 Future Improvements
@@ -92,4 +93,5 @@ Run the Streamlit web app:
 ## 👨‍💻 Author
 
 **Shah Faisal Khan**
-📧 Email: shahfaisal3102@gmail.com
+- 📧 Email: shahfaisal3102@gmail.com
+- [LinkedIn](www.linkedin.com/in/shah-faisal-khan-882965235)
